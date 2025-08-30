@@ -8,7 +8,7 @@ Je m’appelle **Kossi NOUMAGNO**, étudiant en **Master 1 Ingénierie Mathémat
 - 🤖 L’intelligence artificielle et le machine learning  
 - 🐍 Le développement Python et SQL  
 
-🔎 Actuellement à la recherche d’un **stage de 4 à 6 mois en Data Analysis à partir de septembre 2025**.  
+🔎 Actuellement à la recherche d’un **stage de 4 à 6 mois en Data Analysis à partir de Mars 2026**.  
 
 ---
 
@@ -36,8 +36,7 @@ Je m’appelle **Kossi NOUMAGNO**, étudiant en **Master 1 Ingénierie Mathémat
 - Analyse de logs système  
 
 ### 🎓 Formateur en Informatique – *Computer Forever* (2022 - 2024)  
-- Formation de 37+ apprenants aux outils bureautiques  
-- Enseignement SQL et bases de données  
+- Formation de 37+ apprenants aux outils bureautiques   
 - Création de supports pédagogiques  
 - Analyse des besoins en compétences numériques  
 
