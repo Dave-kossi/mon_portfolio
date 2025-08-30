@@ -48,13 +48,14 @@ Je m’appelle **Kossi NOUMAGNO**, étudiant en **Master 1 Ingénierie Mathémat
 🔹 **[Nettoyage de Données Automatisé](https://github.com/Dave-kossi/Cleanning_Algorithm/tree/main)**  
 *Pipeline Python pour le prétraitement des données (valeurs manquantes, normalisation, anomalies).*  
 
-🔹 **[Analyse E-Commerce](https://github.com/Dave-kossi/analyse_produits_e-commerce)**  
-*Dashboard Power BI avec segmentation RFM et recommandations commerciales.*  
+🔹 **[Analyse des données sur le e-commerce](https://github.com/Dave-kossi/analyse_produits_e-commerce)**  
+*
+J'ai étudié le jeu de données de Retailrocket issu de kaggle avec une étude ajusté sur les KPI et des recommandations pour les décideurs*  
 
-🔹 **Prédiction de Séries Temporelles**  
-*Modèle ARIMA pour prévoir des tendances financières (précision 87%).*  
-
----
+🔹 **[Algorithme d'analyse exploratoire des données](https://github.com/Dave-kossi/EDA_Algorithm)**  
+* C'est un algorithme conçu grâce aux outils de python tels que:
+-Ydata-profiling
+-Pandas*
 
 ## 🎓 Formation & Certification  
 
