@@ -49,13 +49,13 @@ Je m’appelle **Kossi NOUMAGNO**, étudiant en **Master 1 Ingénierie Mathémat
 *Pipeline Python pour le prétraitement des données (valeurs manquantes, normalisation, anomalies).*  
 
 🔹 **[Analyse des données sur le e-commerce](https://github.com/Dave-kossi/analyse_produits_e-commerce)**  
-*
-J'ai étudié le jeu de données de Retailrocket issu de kaggle avec une étude ajusté sur les KPI et des recommandations pour les décideurs*  
+
+*J'ai étudié le jeu de données de Retailrocket issu de kaggle avec une étude ajusté sur les KPI et des recommandations pour les décideurs* 
 
 🔹 **[Algorithme d'analyse exploratoire des données](https://github.com/Dave-kossi/EDA_Algorithm)**  
-* C'est un algorithme conçu grâce aux outils de python tels que:
+ *C'est un algorithme conçu grâce aux outils de python tels que:*
 -Ydata-profiling
--Pandas*
+-Pandas
 
 ## 🎓 Formation & Certification  
 
