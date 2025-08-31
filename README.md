@@ -51,6 +51,10 @@ Je m’appelle **Kossi NOUMAGNO**, étudiant en **Master 1 Ingénierie Mathémat
 🔹 **[Algorithme d’Analyse Exploratoire](https://github.com/Dave-kossi/EDA_Algorithm)**  
 *Exploration automatisée des données avec `pandas` et `ydata-profiling`.*  
 
+🔹 **Algorithme d’Audit et de Nettoyage des Données (https://github.com/Dave-kossi/Data-Quality-Audit-and-Cleaning-Pipeline)**  
+*Outil avancé en Python pour évaluer la qualité des données (complétude, unicité, validité),  
+corriger automatiquement les incohérences et générer un rapport détaillé avant/après traitement.*  
+
 ---
 
 ## 🎓 Formation & Certification  
@@ -58,7 +62,9 @@ Je m’appelle **Kossi NOUMAGNO**, étudiant en **Master 1 Ingénierie Mathémat
 - 🎓 Master 1 Ingénierie Mathématique & Data Science – **Université de Haute-Alsace** (2025 - 2026)  
 - 🎓 Licence Mathématiques Appliquées à l’Informatique – **Université de Haute-Alsace** (2024 - 2025)  
 - 🎓 Licence Fondamentale en Mathématiques – **Université de Lomé** (2019 - 2023)  
+
 - 📜 [Google Data Analytics – Credly (2025)](https://www.credly.com/go/z8jvmhQ)  
+- 📜 [AI in Risk Management and Fraud Detection – LinkedIn Learning](https://www.linkedin.com/learning/certificates/3a690c5dc1b03756950689895f23ba3bd268a4a70bf1594bed9693ced87d0cc4)  
 - 📜 Technicien Informatique (2022)  
 
 ---
