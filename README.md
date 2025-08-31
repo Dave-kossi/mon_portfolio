@@ -8,7 +8,7 @@ Je m’appelle **Kossi NOUMAGNO**, étudiant en **Master 1 Ingénierie Mathémat
 - 🤖 L’intelligence artificielle et le machine learning  
 - 🐍 Le développement Python et SQL  
 
-🔎 À partir d’**octobre 2025**, je recherche un **stage de Data Analyst à temps partiel** en parallèle de mes études.  
+🔎 À partir de Mars 2026**, je recherche un **stage de Data Analyst à temps partiel** en parallèle de mes études.  
 
 ---
 
@@ -51,7 +51,7 @@ Je m’appelle **Kossi NOUMAGNO**, étudiant en **Master 1 Ingénierie Mathémat
 🔹 **[Algorithme d’Analyse Exploratoire](https://github.com/Dave-kossi/EDA_Algorithm)**  
 *Exploration automatisée des données avec `pandas` et `ydata-profiling`.*  
 
-🔹 **Algorithme d’Audit et de Nettoyage des Données (https://github.com/Dave-kossi/Data-Quality-Audit-and-Cleaning-Pipeline)**  
+🔹 **[Algorithme d’Audit et de Nettoyage des Données](https://github.com/Dave-kossi/Data-Quality-Audit-and-Cleaning-Pipeline)**  
 *Outil avancé en Python pour évaluer la qualité des données (complétude, unicité, validité),  
 corriger automatiquement les incohérences et générer un rapport détaillé avant/après traitement.*  
 
