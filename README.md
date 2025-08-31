@@ -8,58 +8,58 @@ Je m’appelle **Kossi NOUMAGNO**, étudiant en **Master 1 Ingénierie Mathémat
 - 🤖 L’intelligence artificielle et le machine learning  
 - 🐍 Le développement Python et SQL  
 
-🔎 Actuellement à la recherche d’un **stage de 4 à 6 mois en Data Analysis à partir de Mars 2026**.  
+🔎 À partir d’**octobre 2025**, je recherche un **stage de Data Analyst à temps partiel** en parallèle de mes études.  
 
 ---
 
 ## 🛠️ Compétences Clés  
 
 ### 📈 Niveaux de Maîtrise  
-- 🐍 Python (Analyse de données) ![90%](https://img.shields.io/badge/-90%25-blue)  
+- 🐍 Python (Analyse & traitement de données) ![90%](https://img.shields.io/badge/-90%25-blue)  
 - 🗄️ SQL & Bases de données ![85%](https://img.shields.io/badge/-85%25-blue)  
-- 📊 Visualisation de données ![80%](https://img.shields.io/badge/-80%25-blue)  
-- 📈 BI (Power BI, Tableau) ![75%](https://img.shields.io/badge/-75%25-blue)  
+- 📊 Visualisation de données (Power BI, Tableau) ![80%](https://img.shields.io/badge/-80%25-blue)  
+- 📈 Excel & Google Sheets (dashboards, KPI) ![75%](https://img.shields.io/badge/-75%25-blue)  
 
 ### ⚙️ Stack Technique  
 **Analyse de données** : `Python` `Pandas` `NumPy` `SciPy` `Jupyter`  
-**Visualisation** : `Matplotlib` `Seaborn` `Plotly` `Dash`  
-**Gestion des données** : `SQL` `BigQuery` `Power BI` `Tableau` `Excel`  
+**Visualisation** : `Matplotlib` `Seaborn` `Plotly` `Dash` `Power BI` `Tableau`  
+**Gestion des données** : `SQL` `BigQuery` `Excel` `Google Sheets`  
+**Systèmes** : `Linux` `Windows` (configuration, sécurité, réseau)  
 
 ---
 
 ## 💼 Expériences Professionnelles  
 
-### 💻 Technicien Informatique – *Computer Forever* (2022 - 2024)  
-- Réparation & configuration (Windows/Linux)  
+### 💻 Technicien Informatique – *Lomé (Togo)*  
+- Réparation & configuration des postes de travail (Linux/Windows)  
 - Gestion incidents réseaux et sécurité  
-- Automatisation via scripts Python  
-- Analyse de logs système  
 
 ### 🎓 Formateur en Informatique – *Computer Forever* (2022 - 2024)  
-- Formation de 37+ apprenants aux outils bureautiques   
-- Création de supports pédagogiques  
-- Analyse des besoins en compétences numériques  
+- Formation de **37+ apprenants** aux outils bureautiques et maintenance  
+- Suivi et assistance à l’intégration de **23+ stagiaires**  
 
 ---
 
 ## 📂 Projets Data  
 
-🔹 **[Nettoyage de Données Automatisé](https://github.com/Dave-kossi/Cleanning_Algorithm/tree/main)**  
-*Pipeline Python pour le prétraitement des données (valeurs manquantes, normalisation, anomalies).*  
+🔹 **[Analyse de Comportement Client](https://github.com/Dave-kossi/analyse_produits_e-commerce)**  
+*Étude d’un jeu de données e-commerce (Retailrocket, Kaggle) avec KPI et recommandations stratégiques.*  
 
-🔹 **[Analyse des données sur le e-commerce](https://github.com/Dave-kossi/analyse_produits_e-commerce)**  
+🔹 **[Algorithme de Nettoyage de Données](https://github.com/Dave-kossi/Cleanning_Algorithm)**  
+*Pipeline Python pour corriger les formats, anomalies et générer un rapport avant/après.*  
 
-*J'ai étudié le jeu de données de Retailrocket issu de kaggle avec une étude ajusté sur les KPI et des recommandations pour les décideurs* 
+🔹 **[Algorithme d’Analyse Exploratoire](https://github.com/Dave-kossi/EDA_Algorithm)**  
+*Exploration automatisée des données avec `pandas` et `ydata-profiling`.*  
 
-🔹 **[Algorithme d'analyse exploratoire des données](https://github.com/Dave-kossi/EDA_Algorithm)**  
- *C'est un algorithme conçu grâce aux outils de python tels que:*
--Ydata-profiling
--Pandas
+---
 
 ## 🎓 Formation & Certification  
 
-- 🎓 Master 1 Ingénierie Mathématique & Data Science – **Université de Haute-Alsace**  
-- 📜 [Google Data Analytics – Coursera (2025)](https://www.coursera.org/professional-certificates/google-data-analytics)  
+- 🎓 Master 1 Ingénierie Mathématique & Data Science – **Université de Haute-Alsace** (2025 - 2026)  
+- 🎓 Licence Mathématiques Appliquées à l’Informatique – **Université de Haute-Alsace** (2024 - 2025)  
+- 🎓 Licence Fondamentale en Mathématiques – **Université de Lomé** (2019 - 2023)  
+- 📜 [Google Data Analytics – Credly (2025)](https://www.credly.com/go/z8jvmhQ)  
+- 📜 Technicien Informatique (2022)  
 
 ---
 
