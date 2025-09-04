@@ -65,7 +65,7 @@ corriger automatiquement les incohérences et générer un rapport détaillé av
 
 - 📜 [Google Data Analytics – Credly (2025)](https://www.credly.com/go/z8jvmhQ)  
 - 📜 [AI in Risk Management and Fraud Detection – LinkedIn Learning](https://www.linkedin.com/learning/certificates/3a690c5dc1b03756950689895f23ba3bd268a4a70bf1594bed9693ced87d0cc4)  
-- 📜 Technicien Informatique (2022)  
+- 📜 Technicien Informatique - Computer Forever au Togo (2022)  
 
 ---
 
