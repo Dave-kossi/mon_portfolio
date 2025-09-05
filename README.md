@@ -55,6 +55,7 @@ Je m’appelle **Kossi NOUMAGNO**, étudiant en **Master 1 Ingénierie Mathémat
 *Outil avancé en Python pour évaluer la qualité des données (complétude, unicité, validité),  
 corriger automatiquement les incohérences et générer un rapport détaillé avant/après traitement.*  
 
+**[Pour plus de détails vous pouvez cliquez sur ce lien:](https://dave-kossi.github.io/Data-Quality-Audit-and-Cleaning-Pipeline)**
 ---
 
 ## 🎓 Formation & Certification  
