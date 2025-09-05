@@ -1,86 +1,88 @@
-# 👋 Bienvenue sur mon Portfolio GitHub  
+# 👋 Welcome to My GitHub Portfolio
 
-## 🙋‍♂️ Qui suis-je ?  
-Je m’appelle **Kossi NOUMAGNO**, étudiant en **Master 1 Ingénierie Mathématique & Data Science** à l’Université de Haute-Alsace (UHA).  
+## 🙋‍♂️ About Me
 
-💡 Je suis passionné par :  
-- 📊 L’analyse et la visualisation de données  
-- 🤖 L’intelligence artificielle et le machine learning  
-- 🐍 Le développement Python et SQL  
+Hi, I'm **Kossi NOUMAGNO**, a Master's student in **Mathematical Engineering & Data Science** at the University of Haute-Alsace (UHA), France.
 
-🔎 À partir de Mars 2026**, je recherche un **stage de Data Analyst à temps partiel** en parallèle de mes études.  
+🎯 I'm passionate about:
+- 📊 Data analysis and visualization
+- 🤖 Artificial intelligence and machine learning
+- 🐍 Python and SQL development
 
----
-
-## 🛠️ Compétences Clés  
-
-### 📈 Niveaux de Maîtrise  
-- 🐍 Python (Analyse & traitement de données) ![90%](https://img.shields.io/badge/-90%25-blue)  
-- 🗄️ SQL & Bases de données ![85%](https://img.shields.io/badge/-85%25-blue)  
-- 📊 Visualisation de données (Power BI, Tableau) ![80%](https://img.shields.io/badge/-80%25-blue)  
-- 📈 Excel & Google Sheets (dashboards, KPI) ![75%](https://img.shields.io/badge/-75%25-blue)  
-
-### ⚙️ Stack Technique  
-**Analyse de données** : `Python` `Pandas` `NumPy` `SciPy` `Jupyter`  
-**Visualisation** : `Matplotlib` `Seaborn` `Plotly` `Dash` `Power BI` `Tableau`  
-**Gestion des données** : `SQL` `BigQuery` `Excel` `Google Sheets`  
-**Systèmes** : `Linux` `Windows` (configuration, sécurité, réseau)  
+📅 Starting **March 2026**, I'm actively seeking a **part-time Data Analyst internship** alongside my studies.
 
 ---
 
-## 💼 Expériences Professionnelles  
+## 🛠️ Core Skills
 
-### 💻 Technicien Informatique – *Lomé (Togo)*  
-- Réparation & configuration des postes de travail (Linux/Windows)  
-- Gestion incidents réseaux et sécurité  
+### 📈 Proficiency Levels
+| Skill | Level |
+|-------|-------|
+| Python (Data analysis & processing) | ![90%](https://img.shields.io/badge/-90%25-blue) |
+| SQL & Databases | ![85%](https://img.shields.io/badge/-85%25-blue) |
+| Data Visualization (Power BI, Tableau) | ![80%](https://img.shields.io/badge/-80%25-blue) |
+| Excel & Google Sheets (Dashboards, KPIs) | ![75%](https://img.shields.io/badge/-75%25-blue) |
 
-### 🎓 Formateur en Informatique – *Computer Forever* (2022 - 2024)  
-- Formation de **37+ apprenants** aux outils bureautiques et maintenance  
-- Suivi et assistance à l’intégration de **23+ stagiaires**  
-
----
-
-## 📂 Projets Data  
-
-🔹 **[Analyse de Comportement Client](https://github.com/Dave-kossi/analyse_produits_e-commerce)**  
-*Étude d’un jeu de données e-commerce (Retailrocket, Kaggle) avec KPI et recommandations stratégiques.*  
-
-🔹 **[Algorithme de Nettoyage de Données](https://github.com/Dave-kossi/Cleanning_Algorithm)**  
-*Pipeline Python pour corriger les formats, anomalies et générer un rapport avant/après.*  
-
-🔹 **[Algorithme d’Analyse Exploratoire](https://github.com/Dave-kossi/EDA_Algorithm)**  
-*Exploration automatisée des données avec `pandas` et `ydata-profiling`.*  
-
-🔹 **[Algorithme d’Audit et de Nettoyage des Données](https://github.com/Dave-kossi/Data-Quality-Audit-and-Cleaning-Pipeline)**  
-*Outil avancé en Python pour évaluer la qualité des données (complétude, unicité, validité),  
-corriger automatiquement les incohérences et générer un rapport détaillé avant/après traitement.*  
-
-**[Pour plus de détails vous pouvez cliquez sur ce lien:](https://dave-kossi.github.io/Data-Quality-Audit-and-Cleaning-Pipeline)**
----
-
-## 🎓 Formation & Certification  
-
-- 🎓 Master 1 Ingénierie Mathématique & Data Science – **Université de Haute-Alsace** (2025 - 2026)  
-- 🎓 Licence Mathématiques Appliquées à l’Informatique – **Université de Haute-Alsace** (2024 - 2025)  
-- 🎓 Licence Fondamentale en Mathématiques – **Université de Lomé** (2019 - 2023)  
-
-- 📜 [Google Data Analytics – Credly (2025)](https://www.credly.com/go/z8jvmhQ)  
-- 📜 [AI in Risk Management and Fraud Detection – LinkedIn Learning](https://www.linkedin.com/learning/certificates/3a690c5dc1b03756950689895f23ba3bd268a4a70bf1594bed9693ced87d0cc4)  
-- 📜 Technicien Informatique - Computer Forever au Togo (2022)  
+### ⚙️ Technical Stack
+- **Data Analysis**: `Python`, `Pandas`, `NumPy`, `SciPy`, `Jupyter`
+- **Visualization**: `Matplotlib`, `Seaborn`, `Plotly`, `Dash`, `Power BI`, `Tableau`
+- **Data Management**: `SQL`, `BigQuery`, `Excel`, `Google Sheets`
+- **Systems**: `Linux`, `Windows` (configuration, security, networking)
 
 ---
 
-## 📫 Me Contacter  
+## 💼 Professional Experience
 
-📍 **Adresse** : 11 rue des Frères Lumière, 68350 Brunstatt, France  
-📧 **Email** : [noumagnokossi0@gmail.com](mailto:noumagnokossi0@gmail.com)  
-📞 **Téléphone** : +33 7 45 97 43 82  
+### 💻 IT Technician – *Lomé, Togo*
+- Computer setup and repair (Linux/Windows)
+- Network and security incident management
 
-🌐 **Réseaux :**  
+### 🎓 IT Trainer – *Computer Forever* (2022–2024)
+- Trained **37+ learners** in office tools and computer maintenance
+- Supported **23+ interns** during their onboarding and integration
+
+---
+
+## 📂 Data Projects
+
+🔹 [**Customer Behavior Analysis**](https://github.com/Dave-kossi/analyse_produits_e-commerce)  
+*Explored e-commerce data (Retailrocket, Kaggle) with KPIs and strategic recommendations.*
+
+🔹 [**Data Cleaning Algorithm**](https://github.com/Dave-kossi/Cleanning_Algorithm)  
+*Python pipeline to fix formats, detect anomalies, and generate before/after reports.*
+
+🔹 [**Exploratory Data Analysis Automation**](https://github.com/Dave-kossi/EDA_Algorithm)  
+*Automated data exploration using `pandas` and `ydata-profiling`.*
+
+🔹 [**Data Quality Audit & Cleaning Pipeline**](https://github.com/Dave-kossi/Data-Quality-Audit-and-Cleaning-Pipeline)  
+*Advanced Python tool to assess data quality (completeness, uniqueness, validity), auto-correct inconsistencies, and generate detailed reports.*  
+🔗 [Live demo here](https://dave-kossi.github.io/Data-Quality-Audit-and-Cleaning-Pipeline)
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 Master’s in Mathematical Engineering & Data Science – UHA (2025–2026)
+- 🎓 Bachelor’s in Applied Mathematics & Computer Science – UHA (2024–2025)
+- 🎓 Bachelor’s in Pure Mathematics – University of Lomé (2019–2023)
+
+- 📜 [Google Data Analytics – Credly (2025)](https://www.credly.com/go/z8jvmhQ)
+- 📜 [AI in Risk Management & Fraud Detection – LinkedIn Learning](https://www.linkedin.com/learning/certificates/3a690c5dc1b03756950689895f23ba3bd268a4a70bf1594bed9693ced87d0cc4)
+- 📜 IT Technician – Computer Forever, Togo (2022)
+
+---
+
+## 📫 Contact Me
+
+📍 **Address**: 11 rue des Frères Lumière, 68350 Brunstatt, France  
+📧 **Email**: [noumagnokossi0@gmail.com](mailto:noumagnokossi0@gmail.com)  
+📞 **Phone**: +33 7 45 97 43 82  
+
+🌐 **Socials**:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kossi%20Noumagno-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/kossi-noumagno)  
-[![GitHub](https://img.shields.io/badge/GitHub-Dave--kossi-black?logo=github&style=for-the-badge)](https://github.com/Dave-kossi)  
+[![GitHub](https://img.shields.io/badge/GitHub-Dave--kossi-black?logo=github&style=for-the-badge)](https://github.com/Dave-kossi)
 
 ---
 
-✨ *Merci de visiter mon portfolio !*  
-🚀 N’hésitez pas à me contacter pour toute opportunité en **Data Analysis** ou en **Data Science**.  
+✨ *Thanks for visiting my portfolio!*  
+🚀 *Feel free to reach out for any opportunity in **Data Analysis** or **Data Science**.*
