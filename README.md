@@ -86,11 +86,21 @@ Projet académique : modélisation probabiliste et simulation.
 
 ## 💼 Expérience Professionnelle (Sélection)  
 
-- **Technicien Informatique – CENI Togo** (2024)  
-- **Administrateur Système & Réseaux – International Bâtisseur** (2022)  
-- **Formateur Informatique – Computer Forever** (2021-2022)  
+- **Technicien Informatique – CENI Togo** (Mai 2024)  
+  - Installation et configuration de systèmes Windows  
+  - Déploiement de logiciels et protocoles de sauvegarde  
 
-*(Ces expériences renforcent ma rigueur technique et ma capacité à déployer des solutions fiables.)*  
+- **Administrateur Système & Réseaux – International Bâtisseur** (Janvier 2022)  
+  - Déploiement d’un serveur Samba pour une agence immobilière  
+  - Gestion des permissions utilisateurs et sauvegardes  
+
+- **Formateur & Assistant Stagiaires – Computer Forever** (2022-2024)  
+  - Formation de +37 apprenants aux outils bureautiques et informatiques  
+  - Encadrement de +23 stagiaires en insertion professionnelle  
+  - Animation de programmes pratiques (6 mois intensifs + 3 mois de stage)  
+  - Développement de mes compétences en **pédagogie, vulgarisation et mentoring**  
+
+*(Ces expériences renforcent ma rigueur technique et ma capacité à **communiquer efficacement la valeur des données**.)*  
 
 ---
 
@@ -99,7 +109,7 @@ Projet académique : modélisation probabiliste et simulation.
 - 🎓 **Master Ingénierie Mathématique & Data Science** – UHA (2025-2026)  
 - 🎓 **Licence Mathématiques Appliquées & Informatique** – UHA (2024-2025)  
 - 🎓 **Licence Mathématiques Fondamentales** – Université de Lomé (2019-2023)  
-- 💻 **Technicien Informatique** – Computer Forever (2021-2022)  
+- 💻 **Technicien Informatique** – Computer Forever (2021-2022) au Togo
 
 ---
 
@@ -109,7 +119,7 @@ Projet académique : modélisation probabiliste et simulation.
 |--------------|-----------|------|------|
 | Google Data Analytics | Google | 2025 | [Voir credential](https://www.credly.com/go/z8jvmhQ) |
 | IA en Gestion des Risques & Détection de Fraude | LinkedIn Learning | 2024 | [Voir certification](https://www.linkedin.com/learning/certificates/3a690c5dc1b03756950689895f23ba3bd268a4a70bf1594bed9693ced87d0cc4) |
-| Technicien Informatique | Computer Forever | 2022 | — |
+| Technicien Informatique | Computer Forever | 2021| 2022 |
 
 ---
 
@@ -117,7 +127,7 @@ Projet académique : modélisation probabiliste et simulation.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kossi-noumagno)  
 - 💻 [GitHub](https://github.com/Dave-kossi)  
-- 📧 Email : *à compléter*  
+- 📧 Email : **noumagnokossi0@gmail.com**  
 
 ---
 
