@@ -70,18 +70,7 @@ Pipeline complet d’évaluation et de correction de données.
 ### 🔹 [Exploration de Données E-commerce](https://github.com/Dave-kossi/analyse_produits_e-commerce)  
 - Analyse du comportement client  
 - KPIs & recommandations business  
-- Visualisation interactive  
-
-### 🔹 [Chaînes de Markov – Kruskal Count](lien-vers-repo)  
-Projet académique : modélisation probabiliste et simulation.  
-- Applications pédagogiques  
-- Notebook Python & rapport académique  
-
-### 🔹 [Application de Révision Intelligente](lien-vers-repo)  
-- Aide à la préparation d’examens (BEPC, Bac, Bac Pro)  
-- Quiz interactifs & fiches récap  
-- Interface avec **Gradio**  
-
+- Visualisation interactive 
 ---
 
 ## 💼 Expérience Professionnelle (Sélection)  
@@ -117,9 +106,9 @@ Projet académique : modélisation probabiliste et simulation.
 
 | Certification | Organisme | Date | Lien |
 |--------------|-----------|------|------|
-| Google Data Analytics | Google | 2025 | [Voir credential](https://www.crediy.com/go/z8jvmhQk) |
+| Google Data Analytics | Google | 2025 | [Voir credential](https://www.credly.com/go/z8jvmhQk) |
 | IA en Gestion des Risques & Détection de Fraude | LinkedIn Learning | 2024 | [Voir certification](https://www.linkedin.com/learning/certificates/3a690c5dc1b03756950689895f23ba3bd268a4a70bf1594bed9693ced87d0cc4) |
-| Technicien Informatique | Computer Forever | 2021| 2022 |
+| Technicien Informatique | Computer Forever | 2021-2022|  |
 
 ---
 
