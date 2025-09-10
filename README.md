@@ -80,7 +80,7 @@ Pipeline complet d’évaluation et de correction de données.
   - Déploiement de logiciels et protocoles de sauvegarde  
 
 - **Administrateur Système & Réseaux – International Bâtisseur** (Janvier 2022)  
-  - Déploiement d’un serveur Samba pour une agence immobilière  
+  - Déploiement d’un serveur Samba pour cette agence immobilière  
   - Gestion des permissions utilisateurs et sauvegardes  
 
 - **Formateur & Assistant Stagiaires – Computer Forever** (2022-2024)  
