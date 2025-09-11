@@ -72,7 +72,7 @@ Pipeline complet d’évaluation et de correction de données.
 - KPIs & recommandations business  
 - Captures des visuels
 ### 🔹 [Analyse complète du Dataset Online Retail](https://github.com/Dave-kossi/Online_Retail_Project)
-- #####[Etude approfondie avec visualisation interactive en utilisant streamlit](https://onlineretailproject-n4u86pch6tfkxqdhtaceco.streamlit.app/)
+- ##### [Etude approfondie avec visualisation interactive en utilisant streamlit](https://onlineretailproject-n4u86pch6tfkxqdhtaceco.streamlit.app/)
 ---
 
 ## 💼 Expérience Professionnelle (Sélection)  
