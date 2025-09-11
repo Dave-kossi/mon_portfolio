@@ -70,7 +70,9 @@ Pipeline complet d’évaluation et de correction de données.
 ### 🔹 [Exploration de Données E-commerce](https://github.com/Dave-kossi/analyse_produits_e-commerce)  
 - Analyse du comportement client  
 - KPIs & recommandations business  
-- Visualisation interactive 
+- Captures des visuels
+### 🔹 [Analyse complète du Dataset Online Retail](https://github.com/Dave-kossi/Online_Retail_Project)
+- [Etude approfondie avec visualisation interactive avec streamlit](https://onlineretailproject-n4u86pch6tfkxqdhtaceco.streamlit.app/)
 ---
 
 ## 💼 Expérience Professionnelle (Sélection)  
