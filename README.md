@@ -71,10 +71,10 @@ Pipeline complet d’évaluation et de correction de données.
 - Analyse du comportement client  
 - KPIs & recommandations business  
 - Captures des visuels
+  
 ### 🔹 [Analyse complète du Dataset Online Retail](https://github.com/Dave-kossi/Online_Retail_Project)
   - [Étude approfondie avec visualisation interactive en utilisant Streamlit](https://onlineretailproject-n4u86pch6tfkxqdhtaceco.streamlit.app/)
-  - Etude du jeu de données réel contenant :
----
+ Etude du jeu de données réel contenant :
 - Les **transactions d’une boutique en ligne basée au Royaume-Uni**
 - Sur la période **décembre 2010 à décembre 2011**
 - Plus de **500 000 lignes** de données (achats, retours, clients, pays, etc.)
