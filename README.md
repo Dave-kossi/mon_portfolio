@@ -27,7 +27,7 @@ Mon objectif : développer des solutions innovantes en **finance**, **e-commerce
 - Construire des **copilotes IA pour l’analyse de données** en entreprise.  
 - Développer des outils Data/IA pour la **prise de décision stratégique**.  
 - Créer du contenu pédagogique (LinkedIn, YouTube *DataNexo*) pour démocratiser l’usage des données.  
-- Explorer l’IA appliquée à la **finance** et au **e-commerce**.  
+- Explorer l’IA appliquée à la **finance** au **e-commerce** et à des **banques et assurances** .  
 
 ---
 
@@ -74,6 +74,7 @@ Pipeline complet d’évaluation et de correction de données.
 ### 🔹 [Analyse complète du Dataset Online Retail](https://github.com/Dave-kossi/Online_Retail_Project)
   - [Étude approfondie avec visualisation interactive en utilisant Streamlit](https://onlineretailproject-n4u86pch6tfkxqdhtaceco.streamlit.app/)
   - Etude du jeu de données réel contenant :
+---
 - Les **transactions d’une boutique en ligne basée au Royaume-Uni**
 - Sur la période **décembre 2010 à décembre 2011**
 - Plus de **500 000 lignes** de données (achats, retours, clients, pays, etc.)
