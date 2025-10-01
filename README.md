@@ -16,7 +16,7 @@
 🌍 Pour moi, la **Data** est un langage universel qui raconte une histoire.  
 🤖 L’**IA** est l’outil qui permet de transformer cette histoire en **actions intelligentes**.  
 
-Mon objectif : développer des solutions innovantes en **finance**, **e-commerce** et **éducation**, en utilisant les données et l’IA comme leviers stratégiques.  
+Mon objectif : développer des solutions innovantes en **finance**, **e-commerce** et **banques et assurances**, en utilisant les données et l’IA comme leviers stratégiques.  
 
 **Disponibilité** : Stage en Data Analysis / Data Science à partir de mars 2026.  
 
@@ -74,7 +74,7 @@ Pipeline complet d’évaluation et de correction de données.
   
 ### 🔹 [Analyse complète du Dataset Online Retail](https://github.com/Dave-kossi/Online_Retail_Project)
   - [Étude approfondie avec visualisation interactive en utilisant Streamlit](https://onlineretailproject-n4u86pch6tfkxqdhtaceco.streamlit.app/)
--Etude du jeu de données réel contenant :
+    
 - Les **transactions d’une boutique en ligne basée au Royaume-Uni**
 - Sur la période **décembre 2010 à décembre 2011**
 - Plus de **500 000 lignes** de données (achats, retours, clients, pays, etc.)
