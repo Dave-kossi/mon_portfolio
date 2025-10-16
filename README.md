@@ -11,12 +11,12 @@
 
 ## 👋 À Propos de Moi  
 
-Étudiant en Master **Ingénierie Mathématique & Data Science** à l’Université de Haute-Alsace (France), je me passionne pour la **transformation des données en solutions concrètes**.  
+Étudiant en Master **Ingénierie Mathématique & Data Science** à l'Université de Haute-Alsace (France), je me passionne pour la **transformation des données en solutions concrètes**.  
 
 🌍 Pour moi, la **Data** est un langage universel qui raconte une histoire.  
-🤖 L’**IA** est l’outil qui permet de transformer cette histoire en **actions intelligentes**.  
+🤖 L'**IA** est l'outil qui permet de transformer cette histoire en **actions intelligentes**.  
 
-Mon objectif : développer des solutions innovantes en **finance**, **e-commerce** et **banques et assurances**, en utilisant les données et l’IA comme leviers stratégiques.  
+Mon objectif : développer des solutions innovantes en **finance**, **e-commerce** et **banques et assurances**, en utilisant les données et l'IA comme leviers stratégiques.  
 
 **Disponibilité** : Stage en Data Analysis / Data Science à partir de mars 2026.  
 
@@ -24,10 +24,10 @@ Mon objectif : développer des solutions innovantes en **finance**, **e-commerce
 
 ## 🎯 Vision Professionnelle  
 
-- Construire des **copilotes IA pour l’analyse de données** en entreprise.  
-- Développer des outils Data/IA pour la **prise de décision stratégique**.  
-- Créer du contenu pédagogique (LinkedIn, YouTube *DataNexo*) pour démocratiser l’usage des données.  
-- Explorer l’IA appliquée à la **finance** au **e-commerce** et à des **banques et assurances** .  
+- Construire des **copilotes IA pour l'analyse de données** en entreprise  
+- Développer des outils Data/IA pour la **prise de décision stratégique**  
+- Créer du contenu pédagogique (LinkedIn, YouTube *DataNexo*) pour démocratiser l'usage des données  
+- Explorer l'IA appliquée à la **finance**, au **e-commerce** et aux **banques et assurances**
 
 ---
 
@@ -50,14 +50,21 @@ Mon objectif : développer des solutions innovantes en **finance**, **e-commerce
 
 ### 💻 Web & Dev Skills  
 - HTML, CSS, Git/GitHub  
-- Développement d’outils analytiques Python  
+- Développement d'outils analytiques Python  
 
 ---
 
 ## 📂 Projets Clés  
 
+### 🔹 [Analyse Prédictive Assurance - Dataset Insurance](https://onlineretailproject-n4u86pch6tfkxqdhtaceco.streamlit.app/)
+**Application Streamlit Cloud** - Analyse complète d'un dataset d'assurance
+- Exploration et visualisation des données démographiques et médicales
+- Analyse des coûts d'assurance selon l'âge, le sexe, le statut de fumeur
+- Visualisations interactives avec filtres dynamiques
+- Insights business pour le secteur de l'assurance
+
 ### 🔹 [Audit de Qualité de Données](https://dave-kossi.github.io/Data-Quality-Audit-and-Cleaning-Pipeline)  
-Pipeline complet d’évaluation et de correction de données.  
+Pipeline complet d'évaluation et de correction de données.  
 - Métriques : complétude, unicité, validité  
 - Correction automatique des incohérences  
 - Génération de rapports avant/après  
@@ -73,10 +80,9 @@ Pipeline complet d’évaluation et de correction de données.
 - Captures des visuels
   
 ### 🔹 [Analyse complète du Dataset Online Retail](https://github.com/Dave-kossi/Online_Retail_Project)
-  - [Étude approfondie avec visualisation interactive en utilisant Streamlit](https://onlineretailproject-n4u86pch6tfkxqdhtaceco.streamlit.app/)
-    
-- Les **transactions d’une boutique en ligne basée au Royaume-Uni**
-- Sur la période **décembre 2010 à décembre 2011**
+- [Étude approfondie avec visualisation interactive en utilisant Streamlit](https://onlineretailproject-n4u86pch6tfkxqdhtaceco.streamlit.app/)
+- Analyse des **transactions d'une boutique en ligne basée au Royaume-Uni**
+- Période : **décembre 2010 à décembre 2011**
 - Plus de **500 000 lignes** de données (achats, retours, clients, pays, etc.)
 
 ---
@@ -88,7 +94,7 @@ Pipeline complet d’évaluation et de correction de données.
   - Déploiement de logiciels et protocoles de sauvegarde  
 
 - **Administrateur Système & Réseaux – International Bâtisseur** (Janvier 2022)  
-  - Déploiement d’un serveur Samba pour cette agence immobilière  
+  - Déploiement d'un serveur Samba pour cette agence immobilière  
   - Gestion des permissions utilisateurs et sauvegardes  
 
 - **Formateur & Assistant Stagiaires – Computer Forever** (2022-2024)  
@@ -128,4 +134,4 @@ Pipeline complet d’évaluation et de correction de données.
 
 ---
 
-✨ *“Les données racontent une histoire. Mon rôle est de la comprendre, de l’analyser et de la transformer en valeur grâce à l’IA.”*  
+✨ *"Les données racontent une histoire. Mon rôle est de la comprendre, de l'analyser et de la transformer en valeur grâce à l'IA."*
