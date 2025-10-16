@@ -56,7 +56,7 @@ Mon objectif : développer des solutions innovantes en **finance**, **e-commerce
 
 ## 📂 Projets Clés  
 
-### 🔹 [Analyse Prédictive Assurance - Dataset Insurance](https://onlineretailproject-n4u86pch6tfkxqdhtaceco.streamlit.app/)
+### 🔹 [Analyse Prédictive Assurance - Dataset Insurance](https://predictive-analysis-g7zjxrbuf79tfb3aolobma.streamlit.app/)
 **Application Streamlit Cloud** - Analyse complète d'un dataset d'assurance
 - Exploration et visualisation des données démographiques et médicales
 - Analyse des coûts d'assurance selon l'âge, le sexe, le statut de fumeur
