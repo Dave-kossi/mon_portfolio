@@ -84,6 +84,17 @@ Pipeline complet d'évaluation et de correction de données.
 - Analyse des **transactions d'une boutique en ligne basée au Royaume-Uni**
 - Période : **décembre 2010 à décembre 2011**
 - Plus de **500 000 lignes** de données (achats, retours, clients, pays, etc.)
+  
+### 🔹 [Segmentation des Clients par Risque Santé – Modèle Prédictif](https://predictive-analysis-g7zjxrbuf79tfb3aolobma.streamlit.app/)
+
+**🎯 Objectif :**  
+Détecter et classifier les clients selon leur niveau de risque médical afin d’optimiser la tarification et la gestion du portefeuille d’assurance.
+
+**🚀 Points clés :**
+- 🧮 Simulation interactive du pricing des contrats d’assurance santé  
+- 📊 Dashboard analytique avec segmentation visuelle des profils clients  
+- 🤖 Modèle prédictif estimant les coûts médicaux annuels à partir des caractéristiques individuelles
+
 
 ---
 
