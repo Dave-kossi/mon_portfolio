@@ -55,13 +55,24 @@ Mon objectif : développer des solutions innovantes en **finance**, **e-commerce
 ---
 
 ## 📂 Projets Clés  
+### 🔹 [Analyse Prédictive & Segmentation des Clients Santé – Modèle de Risque et Tarification](https://predictive-analysis-g7zjxrbuf79tfb3aolobma.streamlit.app/)
 
-### 🔹 [Analyse Prédictive Assurance - Dataset Insurance](https://predictive-analysis-g7zjxrbuf79tfb3aolobma.streamlit.app/)
-**Application Streamlit Cloud** - Analyse complète d'un dataset d'assurance
-- Exploration et visualisation des données démographiques et médicales
-- Analyse des coûts d'assurance selon l'âge, le sexe, le statut de fumeur
-- Visualisations interactives avec filtres dynamiques
-- Insights business pour le secteur de l'assurance
+**💻 Application Streamlit Cloud**  
+Projet complet d’analyse et de modélisation prédictive appliqué au secteur de l’assurance santé.
+
+**🎯 Objectif :**  
+Analyser, segmenter et prédire le risque médical des clients afin d’optimiser la tarification et la gestion du portefeuille d’assurance.
+
+**🚀 Réalisations clés :**
+- 📊 **Exploration et visualisation** des données démographiques et médicales (âge, sexe, statut de fumeur, région, etc.)  
+- 🧮 **Simulation interactive du pricing** et évaluation du coût annuel d’assurance santé  
+- 🤖 **Modélisation prédictive** des dépenses médicales à partir des variables client  
+- 🔍 **Segmentation dynamique** des profils selon le niveau de risque  
+- 💡 **Insights business** pour ajuster les politiques tarifaires et améliorer la rentabilité  
+
+**🧠 Stack technique :**  
+`Python`, `Streamlit`, `Pandas`, `Scikit-learn`, `Plotly`
+
 
 ### 🔹 [Audit de Qualité de Données](https://dave-kossi.github.io/Data-Quality-Audit-and-Cleaning-Pipeline)  
 Pipeline complet d'évaluation et de correction de données.  
@@ -84,16 +95,6 @@ Pipeline complet d'évaluation et de correction de données.
 - Analyse des **transactions d'une boutique en ligne basée au Royaume-Uni**
 - Période : **décembre 2010 à décembre 2011**
 - Plus de **500 000 lignes** de données (achats, retours, clients, pays, etc.)
-  
-### 🔹 [Segmentation des Clients par Risque Santé – Modèle Prédictif](https://predictive-analysis-g7zjxrbuf79tfb3aolobma.streamlit.app/)
-
-**🎯 Objectif :**  
-Détecter et classifier les clients selon leur niveau de risque médical afin d’optimiser la tarification et la gestion du portefeuille d’assurance.
-
-**🚀 Points clés :**
-- 🧮 Simulation interactive du pricing des contrats d’assurance santé  
-- 📊 Dashboard analytique avec segmentation visuelle des profils clients  
-- 🤖 Modèle prédictif estimant les coûts médicaux annuels à partir des caractéristiques individuelles
 
 
 ---
