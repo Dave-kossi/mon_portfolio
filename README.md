@@ -80,11 +80,6 @@ Pipeline complet d'évaluation et de correction de données.
 - Correction automatique des incohérences  
 - Génération de rapports avant/après  
 
-### 🔹 [Algorithme de Nettoyage Automatique](https://github.com/Dave-kossi/Cleanning_Algorithm)  
-- Correction des formats  
-- Traitement des anomalies  
-- Rapport automatisé  
-
 ### 🔹 [Exploration de Données E-commerce](https://github.com/Dave-kossi/analyse_produits_e-commerce)  
 - Analyse du comportement client  
 - KPIs & recommandations business  
