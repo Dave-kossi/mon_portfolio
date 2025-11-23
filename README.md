@@ -36,7 +36,7 @@ Mon objectif : développer des solutions innovantes en **finance**, **e-commerce
 ### 📊 Data Science & Machine Learning  
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
 - Data Cleaning & Preprocessing  
-- Modélisation probabiliste (Markov Chains, simulations)  
+- Modélisation probabiliste et statistique (Kaplan Meier, Chaine de Markov)  
 - Hugging Face, LangChain, Gradio, Streamlit  
 
 ### 🗄️ Data Engineering & Management  
