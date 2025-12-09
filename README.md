@@ -1,8 +1,8 @@
 # 🚀 Portfolio – Kossi Noumagno  
 *Data Analyst | Future Data Scientist | AI Enthusiast*
 
-![Python](https://img.shields.io/badge/Python-Expert-green) 
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue) 
+![Python](https://img.shields.io/badge/Python-green) 
+![SQL](https://img.shields.io/badge/SQL-blue) 
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange) 
 ![Data Science](https://img.shields.io/badge/Data-Science-purple)
 ![IA](https://img.shields.io/badge/Intelligence-Artificielle-red)
@@ -35,12 +35,13 @@ Mon objectif : développer des solutions innovantes en **finance**, **e-commerce
 
 ### 📊 Data Science & Machine Learning  
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
-- Data Cleaning & Preprocessing  
+- Data Cleaning,Preprocessing,Feature engineering 
 - Modélisation probabiliste et statistique (Kaplan Meier, Chaine de Markov)  
-- Hugging Face, LangChain, Gradio, Streamlit  
+- Hugging Face, Gradio, Streamlit
+- Recherche opérationnelle  
 
 ### 🗄️ Data Engineering & Management  
-- SQL (PostgreSQL, MySQL, SQLite)  
+- SQL (PostgreSQL)  
 - BigQuery, Excel, Google Sheets  
 - Data Quality Audit & Pipeline automatisé  
 
@@ -87,9 +88,39 @@ Pipeline complet d'évaluation et de correction de données.
   
 ### 🔹 [Analyse complète du Dataset Online Retail](https://github.com/Dave-kossi/Online_Retail_Project)
 - [Étude approfondie avec visualisation interactive en utilisant Streamlit](https://onlineretailproject-n4u86pch6tfkxqdhtaceco.streamlit.app/)
-- Analyse des **transactions d'une boutique en ligne basée au Royaume-Uni**
-- Période : **décembre 2010 à décembre 2011**
-- Plus de **500 000 lignes** de données (achats, retours, clients, pays, etc.)
+OBJECTIF DU PROJET
+------------------
+
+Ce projet vise à fournir une analyse complète et détaillée de toutes les transactions (achats et retours) d'une boutique en ligne basée au Royaume-Uni. L'objectif principal est de transformer un volume important de données brutes en informations stratégiques exploitables pour guider les décisions d'investissement et optimiser la performance commerciale.
+
+PÉRIMÈTRE DE L'ANALYSE
+---------------------
+
+* Source de Données : Transactions d'une boutique en ligne basée au Royaume-Uni.
+* Période Étudiée : Décembre 2010 au Décembre 2011.
+* Volume de Données : Plus de 500 000 lignes de données traitées.
+
+MÉTHODOLOGIE
+------------
+
+Le traitement de ce gros volume de données a nécessité un nettoyage avancé et une analyse structurée, comprenant :
+
+1.  NETTOYAGE AVANCÉ : Gestion des valeurs manquantes, des doublons, et exclusion des transactions de retour.
+2.  ANALYSE GÉOGRAPHIQUE : Identification des pays d'origine des clients et de leur contribution au chiffre d'affaires.
+3.  ANALYSE TEMPORELLE : Étude détaillée des variations des ventes dans le temps.
+
+RÉSULTATS CLÉS & IMPACT STRATÉGIQUE
+-----------------------------------
+
+* OPPORTUNITÉ DE CROISSANCE : Identification des pays les plus prometteurs. Une simulation montre qu'un investissement ciblé dans ces pays pourrait générer une AUGMENTATION POTENTIELLE DU CHIFFRE D'AFFAIRES DE 7%.
+
+* TENDANCES TEMPORELLES : L'analyse a permis d'identifier clairement les mois de pic des ventes, les périodes de faible activité et les tendances saisonnières cruciales pour la planification.
+
+COMPÉTENCES ET OUTILS UTILISÉS
+-----------------------------
+
+* Compétences : Nettoyage de données (Data Cleaning), Analyse statistique, Analyse temporelle, Visualisation des données.
+* Outils/Langages : [Python,Streamlit]
 
 
 ---
@@ -97,7 +128,7 @@ Pipeline complet d'évaluation et de correction de données.
 ## 💼 Expérience Professionnelle (Sélection)  
 
 - **Technicien Informatique – CENI Togo** (Mai 2024)  
-  - Installation et configuration de systèmes Windows  
+  - Installation et configuration de windows sur 3 ordinateurs neufs
   - Déploiement de logiciels et protocoles de sauvegarde  
 
 - **Administrateur Système & Réseaux – International Bâtisseur** (Janvier 2022)  
