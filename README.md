@@ -26,8 +26,6 @@ Mon objectif : développer des solutions innovantes en **finance**, **e-commerce
 
 - Construire des **copilotes IA pour l'analyse de données** en entreprise  
 - Développer des outils Data/IA pour la **prise de décision stratégique**  
-- Créer du contenu pédagogique (LinkedIn, YouTube *DataNexo*) pour démocratiser l'usage des données  
-- Explorer l'IA appliquée à la **finance**, au **e-commerce** et aux **banques et assurances**
 
 ---
 
@@ -36,7 +34,7 @@ Mon objectif : développer des solutions innovantes en **finance**, **e-commerce
 ### 📊 Data Science & Machine Learning  
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
 - Data Cleaning,Preprocessing,Feature engineering 
-- Modélisation probabiliste et statistique (Kaplan Meier, Chaine de Markov)  
+- Modélisation probabiliste et statistique  
 - Hugging Face, Gradio, Streamlit
 - Recherche opérationnelle  
 
@@ -71,7 +69,7 @@ Analyser, segmenter et prédire le risque médical des clients afin d’optimise
 - 🔍 **Segmentation dynamique** des profils selon le niveau de risque  
 - 💡 **Insights business** pour ajuster les politiques tarifaires et améliorer la rentabilité  
 
-**🧠 Stack technique :**  
+**🧠 Stack technique **  
 `Python`, `Streamlit`, `Pandas`, `Scikit-learn`, `Plotly`
 
 
@@ -158,6 +156,7 @@ COMPÉTENCES ET OUTILS UTILISÉS
 
 | Certification | Organisme | Date | Lien |
 |--------------|-----------|------|------|
+| Machine Learning Specialization | DeepLearningIA |en cours|
 | Google Data Analytics | Google | 2025 | [Voir credential](https://www.credly.com/go/z8jvmhQk) |
 | IA en Gestion des Risques & Détection de Fraude | LinkedIn Learning | 2024 | [Voir certification](https://www.linkedin.com/learning/certificates/3a690c5dc1b03756950689895f23ba3bd268a4a70bf1594bed9693ced87d0cc4) |
 | Technicien Informatique | Computer Forever | 2021-2022|  |
