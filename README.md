@@ -1,4 +1,4 @@
-# 🚀 Portfolio – Kossi Noumagno  
+# Portfolio – Kossi Noumagno  
 *Data Analyst | Future Data Scientist | AI Enthusiast*
 
 ![Python](https://img.shields.io/badge/Python-green) 
