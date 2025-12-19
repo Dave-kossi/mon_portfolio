@@ -116,7 +116,7 @@ Application intelligente d’audit, de nettoyage et d’optimisation de données
 - Standardisation des environnements postes pour améliorer la fiabilité opérationnelle  
 
 ### 🌐 Administrateur Système & Réseaux – International Bâtisseur  
-**Janvier 2022**  
+**Janvier 2023**  
 - Déploiement d’un serveur Samba pour le partage et la centralisation des données internes  
 - Gestion des droits d’accès utilisateurs et des sauvegardes  
 - Contribution à la sécurisation et à la gouvernance des données de l’entreprise  
