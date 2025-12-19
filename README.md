@@ -56,12 +56,12 @@
 ## 📂 Projets Clés  
 
 ### 🔹 [Analyse Prédictive & Segmentation des Clients Santé – Modèle de Risque et Tarification](https://predictive-analysis-g7zjxrbuf79tfb3aolobma.streamlit.app/)  
-**💻 Application sur Streamlit Cloud**  
+**💻 Application Streamlit Cloud**  
 
 **Objectif**: Analyser, segmenter et prédire le risque médical des clients afin d’optimiser la tarification et la gestion du portefeuille d’assurance.
 
 **Réalisations clés** :
-- Exploration et visualisation des données démographiques et médicales (âge, sexe, statut de fumeur, région, etc.)  
+- Exploration et visualisation des données démographiques et médicales  
 - Simulation interactive du pricing et évaluation du coût annuel d’assurance santé  
 - Modélisation prédictive des dépenses médicales à partir des variables client  
 - Segmentation dynamique des profils selon le niveau de risque  
@@ -90,7 +90,7 @@ Application intelligente d’audit, de nettoyage et d’optimisation de données
 ---
 
 ### 🔹 [Analyse complète du Dataset Online Retail](https://github.com/Dave-kossi/Online_Retail_Project)  
-- [Visualisation interactive avec Streamlit](https://onlineretailproject-n4u86pch6tfkxqdhtaceco.streamlit.app/)
+- [Visualisation interactive Streamlit](https://onlineretailproject-n4u86pch6tfkxqdhtaceco.streamlit.app/)
 
 **Objectif** : Fournir une analyse complète de toutes les transactions d'une boutique en ligne (UK) pour guider les décisions stratégiques.
 
@@ -115,15 +115,11 @@ Application intelligente d’audit, de nettoyage et d’optimisation de données
 - Déploiement de logiciels métiers et mise en place de protocoles de sauvegarde  
 - Standardisation des environnements postes pour améliorer la fiabilité opérationnelle  
 
----
-
 ### 🌐 Administrateur Système & Réseaux – International Bâtisseur  
 **Janvier 2022**  
 - Déploiement d’un serveur Samba pour le partage et la centralisation des données internes  
 - Gestion des droits d’accès utilisateurs et des sauvegardes  
 - Contribution à la sécurisation et à la gouvernance des données de l’entreprise  
-
----
 
 ### 📊 Technicien Informatique, Formateur & Assistant Stagiaires – Computer Forever  
 **2022 – 2024**  
@@ -142,28 +138,15 @@ Application intelligente d’audit, de nettoyage et d’optimisation de données
 
 ### 🎓 Master Ingénierie Mathématique & Data Science  
 **Université de Haute-Alsace (UHA)** — *2025 – 2026*  
-- Modélisation mathématique, statistiques avancées, analyse de données  
-- Apprentissage automatique, optimisation et méthodes numériques  
-- Projets appliqués en Data Science, IA et aide à la décision  
 
 ### 🎓 Licence Mathématiques Appliquées  
 **Université de Haute-Alsace (UHA)** — *2024 – 2025*  
-- Probabilités, statistiques, algèbre linéaire et analyse numérique  
-- Programmation scientifique (Python, SQL)  
-- Applications des mathématiques à l’informatique et à l’analyse de données  
 
 ### 🎓 Licence Mathématiques Fondamentales  
 **Université de Lomé** — *2019 – 2023*  
-- Analyse, algèbre, topologie et logique mathématique  
-- Développement d’une forte rigueur scientifique et capacité d’abstraction  
 
 ### 💻 Formation Professionnelle — Technicien Informatique  
 **Computer Forever – Lomé, Togo** — *2021 – 2022*  
-*(Formation suivie en parallèle des études universitaires)*  
-- Systèmes informatiques et réseaux (installation, configuration, maintenance)  
-- Administration de postes utilisateurs et support technique  
-- Déploiement de solutions informatiques en environnement réel  
-- Compétences opérationnelles en IT, systèmes d’information et gestion des données  
 
 ---
 
