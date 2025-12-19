@@ -1,175 +1,189 @@
-# 👨‍💻 Kossi Noumagno  
+# 👨‍💻 Kossi Noumagno
 **Data Analyst | Future Data Scientist | AI Enthusiast**
 
 ![Python](https://img.shields.io/badge/Python-green) 
 ![SQL](https://img.shields.io/badge/SQL-blue) 
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange) 
 ![Data Science](https://img.shields.io/badge/Data-Science-purple)
-![AI](https://img.shields.io/badge/Artificial-Intelligence-red)
+![IA](https://img.shields.io/badge/Intelligence-Artificielle-red)
 
 ---
 
-## 👋 Profil
+## 👋 À Propos de Moi  
 
-Étudiant en **Master Ingénierie Mathématique & Data Science** à l’Université de Haute-Alsace (France), je me spécialise dans l’exploitation des **données** et de l’**intelligence artificielle** pour la **prise de décision stratégique**.
+Étudiant en Master **Ingénierie Mathématique & Data Science** à l'Université de Haute-Alsace (France), je me passionne pour la **transformation des données en solutions concrètes**.  
 
-Mon approche repose sur un équilibre entre :
-- **rigueur mathématique**,  
-- **ingénierie des données**,  
-- **analyse métier et impact business**.
+🌍 Pour moi, la **Data** est un langage universel qui raconte une histoire.  
+🤖 L'**IA** est l'outil qui permet de transformer cette histoire en **actions intelligentes**.  
 
-🎯 **Objectif professionnel** : concevoir des solutions Data & IA robustes, allant de l’analyse exploratoire à la modélisation prédictive et à l’automatisation intelligente.
+**Objectif** : développer des solutions innovantes en **finance**, **e-commerce** et **banques et assurances**, en utilisant les données et l'IA comme leviers stratégiques.  
 
-📅 **Disponibilité** : Stage Data Analyst / Data Scientist à partir de **mars 2026**.
+**Disponibilité** : Stage en Data Analysis / Data Science à partir de mars 2026.
 
 ---
 
-## 🧭 Vision Professionnelle
+## 🧭 Vision Professionnelle  
 
-- Développer des **copilotes IA pour l’analyse de données** en entreprise  
-- Concevoir des outils Data/IA pour la **prise de décision stratégique**  
-- Appliquer la Data Science aux domaines de la **finance**, de l’**e-commerce** et des **banques & assurances**
+- Construire des **copilotes IA pour l'analyse de données** en entreprise  
+- Développer des outils Data/IA pour la **prise de décision stratégique**  
 
 ---
 
-## 🛠️ Compétences Techniques
+## 🛠️ Stack Technique  
 
-### 📊 Data Science & Machine Learning
-- Python : `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
-- Data cleaning, preprocessing & feature engineering  
-- Modélisation statistique et probabiliste  
+### 📊 Data Science & Machine Learning  
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
+- Data Cleaning, Preprocessing, Feature engineering  
+- Modélisation probabiliste et statistique  
+- Hugging Face, Gradio, Streamlit  
 - Recherche opérationnelle  
-- Outils IA : Hugging Face, Gradio, Streamlit  
 
-### 🗄️ Data Engineering & Data Management
+### 🗄️ Data Engineering & Management  
 - SQL (PostgreSQL)  
 - BigQuery, Excel, Google Sheets  
-- Audit de qualité des données & pipelines automatisés  
+- Data Quality Audit & Pipeline automatisé  
 
-### 📈 Business Intelligence & Visualisation
+### 📈 Business Intelligence & Visualisation  
 - Power BI, Tableau, Plotly, ydata-profiling  
-- Dashboards interactifs & data storytelling  
+- Dashboards interactifs & storytelling data  
 
-### 🌐 Développement & Outils
-- HTML, CSS  
-- Git & GitHub  
-- Développement d’outils analytiques en Python  
-
----
-
-## 📂 Projets Sélectionnés
-
-### 🔹 Analyse Prédictive & Segmentation des Clients Santé  
-👉 **Application Streamlit**  
-https://predictive-analysis-g7zjxrbuf79tfb3aolobma.streamlit.app/
-
-Projet complet de **modélisation prédictive** appliqué au secteur de l’assurance santé.
-
-**Objectif**  
-Analyser, segmenter et prédire le risque médical des clients afin d’optimiser la tarification et la gestion du portefeuille.
-
-**Contributions clés**
-- Analyse exploratoire et visualisation des données clients  
-- Simulation interactive du pricing santé  
-- Modélisation prédictive des dépenses médicales  
-- Segmentation dynamique des profils de risque  
-- Production d’insights business pour améliorer la rentabilité  
-
-**Stack** : Python · Streamlit · Pandas · Scikit-learn · Plotly
+### 🌐 Web & Dev Skills  
+- HTML, CSS, Git/GitHub  
+- Développement d'outils analytiques Python  
 
 ---
 
-### 🔹Audit & Qualité de Données Assisté par IA  
-👉 **Application Streamlit**  
-https://data-quality-audit-and-cleaning-pipeline-btijscehnpfxa8grjj2ui.streamlit.app/
+## 📂 Projets Clés  
 
-Application intelligente d’audit, de nettoyage et d’optimisation des données intégrant un **LLM** pour l’analyse contextuelle.
+### 🔹 [Analyse Prédictive & Segmentation des Clients Santé – Modèle de Risque et Tarification](https://predictive-analysis-g7zjxrbuf79tfb3aolobma.streamlit.app/)  
+**💻 Application sur Streamlit Cloud**  
 
-- Audit & data profiling (complétude, unicité, validité)  
-- Nettoyage automatique (doublons, valeurs manquantes, outliers)  
-- Optimisation mémoire et rapports avant/après  
-- Analyse assistée par IA (résumés, anomalies, suggestions métier)  
-- Export multi-formats (CSV, Excel, JSON, Parquet)
+**Objectif**: Analyser, segmenter et prédire le risque médical des clients afin d’optimiser la tarification et la gestion du portefeuille d’assurance.
 
-**Stack** : Python · pandas · Streamlit · ydata-profiling · LLM (OpenRouter)
+**Réalisations clés** :
+- Exploration et visualisation des données démographiques et médicales (âge, sexe, statut de fumeur, région, etc.)  
+- Simulation interactive du pricing et évaluation du coût annuel d’assurance santé  
+- Modélisation prédictive des dépenses médicales à partir des variables client  
+- Segmentation dynamique des profils selon le niveau de risque  
+- Insights business pour ajuster les politiques tarifaires et améliorer la rentabilité  
 
----
-
-### 🔹 Analyse Complète du Dataset *Online Retail*  
-👉 **Code GitHub**  
-https://github.com/Dave-kossi/Online_Retail_Project  
-
-👉 **Application Streamlit**  
-https://onlineretailproject-n4u86pch6tfkxqdhtaceco.streamlit.app/
-
-Analyse de plus de **500 000 transactions e-commerce** (UK).
-
-**Résultats clés**
-- Identification des pays à fort potentiel de croissance  
-- Analyse des tendances saisonnières et temporelles  
-- Simulation montrant une **augmentation potentielle du chiffre d’affaires de 7 %**
-
-**Compétences mobilisées**
-Data cleaning avancé · Analyse statistique · Analyse temporelle · Visualisation
+**Stack technique** : `Python`, `Streamlit`, `Pandas`, `Scikit-learn`, `Plotly`
 
 ---
 
-## 💼 Expérience Professionnelle
+### 🔹 [Axiom — Audit & Qualité de Données Assisté par IA](https://data-quality-audit-and-cleaning-pipeline-btijscehnpfxa8grjj2ui.streamlit.app/)  
 
-### 🖥️ Technicien Informatique — CENI Togo  
-**Mai 2024**
-- Installation et configuration de postes Windows  
-- Déploiement de logiciels métiers et protocoles de sauvegarde  
-- Amélioration de la fiabilité opérationnelle des systèmes  
+Application intelligente d’audit, de nettoyage et d’optimisation de données, intégrant un **LLM** pour l’analyse contextuelle.
 
-### 🌐 Administrateur Systèmes & Réseaux — International Bâtisseur  
-**Janvier 2022**
-- Déploiement d’un serveur Samba  
-- Gestion des accès utilisateurs et sauvegardes  
-- Contribution à la gouvernance et à la sécurité des données  
+**Fonctionnalités clés** :
+- Audit & Data Profiling : complétude, unicité, validité, détection d’anomalies  
+- Nettoyage automatique : doublons, valeurs manquantes, outliers (IQR), normalisation, typage  
+- Optimisation mémoire : downcasting, conversion en catégories, rapport avant/après  
+- Analyse assistée par IA (LLM) : résumé du dataset, détection d’incohérences, suggestions métier  
+- Reporting professionnel : rapports automatiques avant/après nettoyage  
+- Export multi-formats : CSV, Excel, JSON, Parquet  
 
-### 📊 Technicien Informatique & Formateur — Computer Forever  
-**2022 – 2024**
-- Formation de **+37 apprenants**  
-- Encadrement de **+23 stagiaires**  
-- Pilotage d’un comité d’intervention rapide  
-  - ➜ **–35 % de plaintes clients**
-- Élaboration d’un plan marketing basé sur l’analyse des besoins  
-  - ➜ **+15 % de nouveaux clients**, satisfaction **> 78 %**
+**Stack** : Python · pandas · Streamlit · ydata-profiling · LLM (OpenRouter)  
+
+**Objectif** : Transformer des données brutes en datasets fiables, exploitables et optimisés pour l’analyse.
+
+---
+
+### 🔹 [Analyse complète du Dataset Online Retail](https://github.com/Dave-kossi/Online_Retail_Project)  
+- [Visualisation interactive avec Streamlit](https://onlineretailproject-n4u86pch6tfkxqdhtaceco.streamlit.app/)
+
+**Objectif** : Fournir une analyse complète de toutes les transactions d'une boutique en ligne (UK) pour guider les décisions stratégiques.
+
+**Méthodologie** :
+1. Nettoyage avancé : gestion des valeurs manquantes, doublons et transactions de retour  
+2. Analyse géographique : identification des pays d'origine et contribution au CA  
+3. Analyse temporelle : étude des variations des ventes dans le temps  
+
+**Résultats clés** :
+- Identification des pays les plus prometteurs (+7% potentiel CA)  
+- Identification des tendances saisonnières et des pics de ventes  
+
+**Compétences et outils** : Data Cleaning, Analyse statistique, Analyse temporelle, Visualisation – Python, Streamlit  
+
+---
+
+## 💼 Expérience Professionnelle (Sélection)
+
+### 🖥️ Technicien Informatique – CENI Togo  
+**Mai 2024**  
+- Installation et configuration de Windows sur 3 ordinateurs neufs  
+- Déploiement de logiciels métiers et mise en place de protocoles de sauvegarde  
+- Standardisation des environnements postes pour améliorer la fiabilité opérationnelle  
+
+---
+
+### 🌐 Administrateur Système & Réseaux – International Bâtisseur  
+**Janvier 2022**  
+- Déploiement d’un serveur Samba pour le partage et la centralisation des données internes  
+- Gestion des droits d’accès utilisateurs et des sauvegardes  
+- Contribution à la sécurisation et à la gouvernance des données de l’entreprise  
+
+---
+
+### 📊 Technicien Informatique, Formateur & Assistant Stagiaires – Computer Forever  
+**2022 – 2024**  
+- Formation de +37 apprenants aux outils informatiques et bureautiques  
+- Encadrement de +23 stagiaires avec suivi des performances et accompagnement professionnel  
+- Animation de programmes pratiques (6 mois intensifs + 3 mois de stage)  
+- Conception et pilotage d’un comité d’intervention rapide (–35 % de plaintes clients)  
+- Élaboration d’un plan marketing basé sur l’analyse des besoins clients (+15 % nouveaux clients, satisfaction >78 %)  
+- Développement de compétences en analyse de processus, prise de décision basée sur les données, pédagogie et communication  
+
+> Ces expériences m’ont permis de relier **technique, données et impact business**.
 
 ---
 
 ## 📚 Formation
 
 ### 🎓 Master Ingénierie Mathématique & Data Science  
-**Université de Haute-Alsace (UHA)** — *2025 – 2026*
+**Université de Haute-Alsace (UHA)** — *2025 – 2026*  
+- Modélisation mathématique, statistiques avancées, analyse de données  
+- Apprentissage automatique, optimisation et méthodes numériques  
+- Projets appliqués en Data Science, IA et aide à la décision  
 
 ### 🎓 Licence Mathématiques Appliquées  
-**Université de Haute-Alsace (UHA)** — *2024 – 2025*
+**Université de Haute-Alsace (UHA)** — *2024 – 2025*  
+- Probabilités, statistiques, algèbre linéaire et analyse numérique  
+- Programmation scientifique (Python, SQL)  
+- Applications des mathématiques à l’informatique et à l’analyse de données  
 
 ### 🎓 Licence Mathématiques Fondamentales  
-**Université de Lomé** — *2019 – 2023*
+**Université de Lomé** — *2019 – 2023*  
+- Analyse, algèbre, topologie et logique mathématique  
+- Développement d’une forte rigueur scientifique et capacité d’abstraction  
 
 ### 💻 Formation Professionnelle — Technicien Informatique  
 **Computer Forever – Lomé, Togo** — *2021 – 2022*  
-*Formation suivie en parallèle des études universitaires*
+*(Formation suivie en parallèle des études universitaires)*  
+- Systèmes informatiques et réseaux (installation, configuration, maintenance)  
+- Administration de postes utilisateurs et support technique  
+- Déploiement de solutions informatiques en environnement réel  
+- Compétences opérationnelles en IT, systèmes d’information et gestion des données  
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications  
 
-- **Google Data Analytics** — Google (2025)  
-- **IA en Gestion des Risques & Détection de Fraude** — LinkedIn Learning (2025)  
-- **Machine Learning Specialization** — DeepLearning.AI *(en cours)*  
-
----
-
-## 📬 Contact
-
-- 🔗 LinkedIn : https://www.linkedin.com/in/kossi-noumagno  
-- 💻 GitHub : https://github.com/Dave-kossi  
-- 📧 Email : **noumagnokossi0@gmail.com**
+| Certification | Organisme | Date | Lien |
+|---------------|-----------|------|------|
+| Machine Learning Specialization | DeepLearningIA | En cours | - |
+| Google Data Analytics | Google | 2025 | [Voir credential](https://www.credly.com/go/z8jvmhQk) |
+| IA en Gestion des Risques & Détection de Fraude | LinkedIn Learning | 2024 | [Voir certification](https://www.linkedin.com/learning/certificates/3a690c5dc1b03756950689895f23ba3bd268a4a70bf1594bed9693ced87d0cc4) |
+| Technicien Informatique | Computer Forever | 2021-2022 | - |
 
 ---
 
-✨ *« Les données racontent une histoire. Mon rôle est de la comprendre, de l’analyser et de la transformer en valeur grâce à l’IA. »*
+## 📬 Contact  
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kossi-noumagno)  
+- 💻 [GitHub](https://github.com/Dave-kossi)  
+- 📧 **noumagnokossi0@gmail.com**  
+
+---
+
+✨ *"Les données racontent une histoire. Mon rôle est de la comprendre, de l'analyser et de la transformer en valeur grâce à l'IA."*
