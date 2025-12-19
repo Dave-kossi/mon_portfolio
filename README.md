@@ -72,16 +72,21 @@ Analyser, segmenter et prédire le risque médical des clients afin d’optimise
 `Python`, `Streamlit`, `Pandas`, `Scikit-learn`, `Plotly`
 
 
-### 🔹 [Audit de Qualité de Données](https://dave-kossi.github.io/Data-Quality-Audit-and-Cleaning-Pipeline)  
-Pipeline complet d'évaluation et de correction de données.  
-- Métriques : complétude, unicité, validité  
-- Correction automatique des incohérences  
-- Génération de rapports avant/après  
+### 🔹 [Axiom — Audit & Qualité de Données Assisté par IA](https://data-quality-audit-and-cleaning-pipeline-btijscehnpfxa8grjj2ui.streamlit.app/)
+Application intelligente d’audit, de nettoyage et d’optimisation de données, intégrant un **LLM** pour l’analyse contextuelle.  
+Conçue pour automatiser les étapes critiques de **Data Quality** et faciliter la prise de décision.
 
-### 🔹 [Exploration de Données E-commerce](https://github.com/Dave-kossi/analyse_produits_e-commerce)  
-- Analyse du comportement client  
-- KPIs & recommandations business  
-- Captures des visuels
+- **Audit & Data Profiling** : complétude, unicité, validité, détection d’anomalies  
+- **Nettoyage automatique** : doublons, valeurs manquantes, outliers (IQR), normalisation, typage  
+- **Optimisation mémoire** : downcasting, conversion en catégories, rapport avant/après  
+- **Analyse assistée par IA (LLM)** : résumé du dataset, détection d’incohérences, suggestions métier  
+- **Reporting professionnel** : rapports automatiques avant/après nettoyage  
+- **Export multi-formats** : CSV, Excel, JSON, Parquet  
+
+**Stack :** Python · pandas · Streamlit · ydata-profiling · LLM (OpenRouter)  
+**Objectif :** transformer des données brutes en datasets fiables, exploitables et optimisés pour l’analyse.
+
+ ---
   
 ### 🔹 [Analyse complète du Dataset Online Retail](https://github.com/Dave-kossi/Online_Retail_Project)
 - [Étude approfondie avec visualisation interactive en utilisant Streamlit](https://onlineretailproject-n4u86pch6tfkxqdhtaceco.streamlit.app/)
@@ -164,13 +169,40 @@ COMPÉTENCES ET OUTILS UTILISÉS
 
 ---
 
-## 📚 Formation  
+## 📚 Formation
 
-- 🎓 **Master Ingénierie Mathématique & Data Science** – UHA (2025-2026)  
-- 🎓 **Licence Mathématiques Appliquées** – UHA (2024-2025)  
-- 🎓 **Licence Mathématiques Fondamentales** – Université de Lomé (2019-2023)  
-- 💻 **Technicien Informatique** – Computer Forever (2021-2022) au Togo
+### 🎓 Master Ingénierie Mathématique & Data Science  
+**Université de Haute-Alsace (UHA)** — *2025 – 2026*  
+- Modélisation mathématique, statistiques avancées et analyse de données  
+- Apprentissage automatique, optimisation et méthodes numériques  
+- Projets appliqués en **Data Science**, **IA** et **aide à la décision**
 
+---
+
+### 🎓 Licence Mathématiques Appliquées  
+**Université de Haute-Alsace (UHA)** — *2024 – 2025*  
+- Probabilités, statistiques, algèbre linéaire et analyse numérique  
+- Programmation scientifique (**Python**, **SQL**)  
+- Applications des mathématiques à l’informatique et à l’analyse de données
+
+---
+
+### 🎓 Licence Mathématiques Fondamentales  
+**Université de Lomé** — *2019 – 2023*  
+- Analyse, algèbre, topologie et logique mathématique  
+- Développement d’une forte **rigueur scientifique** et capacité d’abstraction  
+- Base théorique solide pour la modélisation et les méthodes statistiques
+
+---
+
+### 💻 Formation Professionnelle — Technicien Informatique  
+**Computer Forever – Lomé, Togo** — *2021 – 2022*  
+*(Formation professionnelle suivie en parallèle des études universitaires)*
+
+- Systèmes informatiques et réseaux (installation, configuration, maintenance)  
+- Administration de postes utilisateurs et support technique  
+- Déploiement de solutions informatiques en environnement réel  
+- Développement de compétences opérationnelles en **IT, systèmes d’information et gestion des données**
 ---
 
 ## 🏆 Certifications  
