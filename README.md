@@ -55,10 +55,10 @@ Mon objectif : développer des solutions innovantes en **finance**, **e-commerce
 ## 📂 Projets Clés  
 ### 🔹 [Analyse Prédictive & Segmentation des Clients Santé – Modèle de Risque et Tarification](https://predictive-analysis-g7zjxrbuf79tfb3aolobma.streamlit.app/)
 
-**💻 Application Streamlit Cloud**  
+**💻 Application sur Streamlit Cloud**  
 Projet complet d’analyse et de modélisation prédictive appliqué au secteur de l’assurance santé.
 
-** Objectif :**  
+**Objectif**: 
 Analyser, segmenter et prédire le risque médical des clients afin d’optimiser la tarification et la gestion du portefeuille d’assurance.
 
 ** Réalisations clés :**
