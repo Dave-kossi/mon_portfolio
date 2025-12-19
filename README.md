@@ -1,4 +1,4 @@
-*Data Analyst | Future Data Scientist | AI Enthusiast*
+**Data Analyst | Future Data Scientist | AI Enthusiast**
 
 ![Python](https://img.shields.io/badge/Python-green) 
 ![SQL](https://img.shields.io/badge/SQL-blue) 
@@ -120,23 +120,47 @@ COMPÉTENCES ET OUTILS UTILISÉS
 
 ---
 
-## 💼 Expérience Professionnelle (Sélection)  
+## 💼 Expérience Professionnelle (Sélection)
 
-- **Technicien Informatique – CENI Togo** (Mai 2024)  
-  - Installation et configuration de windows sur 3 ordinateurs neufs
-  - Déploiement de logiciels et protocoles de sauvegarde  
+### 🖥️ Technicien Informatique – CENI Togo  
+**Mai 2024**
+- Installation et configuration de **Windows** sur 3 ordinateurs neufs  
+- Déploiement de logiciels métiers et mise en place de **protocoles de sauvegarde**
+- Standardisation des environnements postes pour améliorer la **fiabilité opérationnelle**
 
-- **Administrateur Système & Réseaux – International Bâtisseur** (Janvier 2022)  
-  - Déploiement d'un serveur Samba pour cette agence immobilière  
-  - Gestion des permissions utilisateurs et sauvegardes  
+---
 
-- **Formateur & Assistant Stagiaires – Computer Forever** (2022-2024)  
-  - Formation de +37 apprenants aux outils bureautiques et informatiques  
-  - Encadrement de +23 stagiaires en insertion professionnelle  
-  - Animation de programmes pratiques (6 mois intensifs + 3 mois de stage)  
-  - Développement de mes compétences en **pédagogie, vulgarisation et mentoring**  
+### 🌐 Administrateur Système & Réseaux – International Bâtisseur  
+**Janvier 2022**
+- Déploiement d’un **serveur Samba** pour le partage et la centralisation des données internes  
+- Gestion des **droits d’accès utilisateurs** et des sauvegardes
+- Contribution à la **sécurisation et à la gouvernance des données** de l’entreprise
 
-*(Ces expériences renforcent ma rigueur technique et ma capacité à **communiquer efficacement la valeur des données**.)*  
+---
+
+### 📊 Technicien Informatique, Formateur & Assistant Stagiaires – Computer Forever  
+**2022 – 2024**
+- Formation de **+37 apprenants** aux outils informatiques et bureautiques (approche orientée **données et usages**)  
+- Encadrement de **+23 stagiaires**, avec suivi des performances et accompagnement professionnel  
+- Animation de programmes pratiques (6 mois intensifs + 3 mois de stage)
+
+- **Conception et pilotage d’un comité d’intervention rapide**, structuré à partir des données de support client  
+  - Analyse des demandes récurrentes et priorisation des interventions  
+  - **Résultat : réduction de 35 % des plaintes clients**
+
+- **Élaboration d’un plan marketing basé sur l’analyse des besoins clients** en maintenance informatique et réseaux  
+  - Identification des services à forte valeur ajoutée  
+  - **Résultat : +15 % de nouveaux clients** et un taux de satisfaction **> 78 %**
+
+- Développement de compétences clés en :
+  - **Analyse de processus**
+  - **Prise de décision basée sur les données**
+  - **Pédagogie, vulgarisation et communication des résultats**
+
+---
+
+> Ces expériences m’ont permis de relier **technique, données et impact business**, et de développer une approche analytique orientée amélioration continue et prise de décision.
+ 
 
 ---
 
