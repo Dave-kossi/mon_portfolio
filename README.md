@@ -21,7 +21,7 @@ Mon objectif : développer des solutions innovantes en **finance**, **e-commerce
 
 ---
 
-## 🎯 Vision Professionnelle  
+##  Vision Professionnelle  
 
 - Construire des **copilotes IA pour l'analyse de données** en entreprise  
 - Développer des outils Data/IA pour la **prise de décision stratégique**  
@@ -30,23 +30,23 @@ Mon objectif : développer des solutions innovantes en **finance**, **e-commerce
 
 ## 🛠️ Stack Technique  
 
-### 📊 Data Science & Machine Learning  
+###  Data Science & Machine Learning  
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
 - Data Cleaning,Preprocessing,Feature engineering 
 - Modélisation probabiliste et statistique  
 - Hugging Face, Gradio, Streamlit
 - Recherche opérationnelle  
 
-### 🗄️ Data Engineering & Management  
+### Data Engineering & Management  
 - SQL (PostgreSQL)  
 - BigQuery, Excel, Google Sheets  
 - Data Quality Audit & Pipeline automatisé  
 
-### 📈 Business Intelligence & Visualisation  
+### Business Intelligence & Visualisation  
 - Power BI, Tableau, Plotly, ydata-profiling  
 - Dashboards interactifs & storytelling data  
 
-### 💻 Web & Dev Skills  
+### Web & Dev Skills  
 - HTML, CSS, Git/GitHub  
 - Développement d'outils analytiques Python  
 
@@ -58,17 +58,17 @@ Mon objectif : développer des solutions innovantes en **finance**, **e-commerce
 **💻 Application Streamlit Cloud**  
 Projet complet d’analyse et de modélisation prédictive appliqué au secteur de l’assurance santé.
 
-**🎯 Objectif :**  
+** Objectif :**  
 Analyser, segmenter et prédire le risque médical des clients afin d’optimiser la tarification et la gestion du portefeuille d’assurance.
 
-**🚀 Réalisations clés :**
-- 📊 **Exploration et visualisation** des données démographiques et médicales (âge, sexe, statut de fumeur, région, etc.)  
-- 🧮 **Simulation interactive du pricing** et évaluation du coût annuel d’assurance santé  
-- 🤖 **Modélisation prédictive** des dépenses médicales à partir des variables client  
-- 🔍 **Segmentation dynamique** des profils selon le niveau de risque  
-- 💡 **Insights business** pour ajuster les politiques tarifaires et améliorer la rentabilité  
+** Réalisations clés :**
+-  **Exploration et visualisation** des données démographiques et médicales (âge, sexe, statut de fumeur, région, etc.)  
+-  **Simulation interactive du pricing** et évaluation du coût annuel d’assurance santé  
+-  **Modélisation prédictive** des dépenses médicales à partir des variables client  
+-  **Segmentation dynamique** des profils selon le niveau de risque  
+-  **Insights business** pour ajuster les politiques tarifaires et améliorer la rentabilité  
 
-**🧠 Stack technique **  
+** Stack technique **  
 `Python`, `Streamlit`, `Pandas`, `Scikit-learn`, `Plotly`
 
 
@@ -85,8 +85,6 @@ Pipeline complet d'évaluation et de correction de données.
   
 ### 🔹 [Analyse complète du Dataset Online Retail](https://github.com/Dave-kossi/Online_Retail_Project)
 - [Étude approfondie avec visualisation interactive en utilisant Streamlit](https://onlineretailproject-n4u86pch6tfkxqdhtaceco.streamlit.app/)
-OBJECTIF DU PROJET
-------------------
 
 Ce projet vise à fournir une analyse complète et détaillée de toutes les transactions (achats et retours) d'une boutique en ligne basée au Royaume-Uni. L'objectif principal est de transformer un volume important de données brutes en informations stratégiques exploitables pour guider les décisions d'investissement et optimiser la performance commerciale.
 
@@ -145,7 +143,7 @@ COMPÉTENCES ET OUTILS UTILISÉS
 ## 📚 Formation  
 
 - 🎓 **Master Ingénierie Mathématique & Data Science** – UHA (2025-2026)  
-- 🎓 **Licence Mathématiques Appliquées & Informatique** – UHA (2024-2025)  
+- 🎓 **Licence Mathématiques Appliquées** – UHA (2024-2025)  
 - 🎓 **Licence Mathématiques Fondamentales** – Université de Lomé (2019-2023)  
 - 💻 **Technicien Informatique** – Computer Forever (2021-2022) au Togo
 
