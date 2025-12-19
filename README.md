@@ -79,7 +79,7 @@ Analyser, segmenter et prédire le risque médical des clients afin d’optimise
 
 ---
 
-### 🔹 Axiom — Audit & Qualité de Données Assisté par IA  
+### 🔹Audit & Qualité de Données Assisté par IA  
 👉 **Application Streamlit**  
 https://data-quality-audit-and-cleaning-pipeline-btijscehnpfxa8grjj2ui.streamlit.app/
 
@@ -159,7 +159,7 @@ Data cleaning avancé · Analyse statistique · Analyse temporelle · Visualisat
 ## 🏆 Certifications
 
 - **Google Data Analytics** — Google (2025)  
-- **IA en Gestion des Risques & Détection de Fraude** — LinkedIn Learning (2024)  
+- **IA en Gestion des Risques & Détection de Fraude** — LinkedIn Learning (2025)  
 - **Machine Learning Specialization** — DeepLearning.AI *(en cours)*  
 
 ---
