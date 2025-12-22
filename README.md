@@ -54,6 +54,42 @@
 ---
 
 ## 📂 Projets Clés  
+### 🔹 Maintenance Prédictive Industrielle — RLU, Analyse de Survie & ROI  
+**Application Streamlit – Maintenance Prédictive & ROI Industriel](https://predictive-maintenance-in-industry-ci7wzatf9nlcghomctgbtx.streamlit.app/)**  
+*Estimation du RLU, anticipation des pannes et optimisation des coûts de maintenance*
+
+
+**Objectif** :  
+Développer un **tableau de bord de maintenance prédictive** permettant d’anticiper les pannes industrielles en estimant la **Remaining Useful Life (RLU)** des machines, tout en **quantifiant l’impact financier (ROI)** des décisions de maintenance.
+
+**Problématique métier** :  
+Les pannes non planifiées entraînent des **coûts élevés**, des arrêts de production et une baisse de disponibilité.  
+L’enjeu est d’**intervenir au bon moment**, ni trop tôt (surcoûts), ni trop tard (panne critique).
+
+---
+
+###  Réalisations clés
+- Estimation du **RLU (jours restants avant défaillance)** par machine  
+- Analyse de survie via **Kaplan–Meier** (probabilité de panne à 30 / 60 / 90 jours)  
+- Construction d’un **Health Score (0–100)** pour une lecture rapide de l’état machine  
+- Priorisation intelligente des équipements selon la criticité réelle  
+- Génération d’un **planning de maintenance optimisé**  
+- Analyse financière : **coûts évités, économies potentielles et ROI**  
+- Simulation de scénarios de dégradation et d’interventions préventives  
+
+---
+
+### Valeur ajoutée
+- Anticipation proactive des **machines critiques**
+- Réduction des **pannes imprévues**
+- Aide à la décision pour les **équipes maintenance et le management**
+- Traduction des performances data en **impact business mesurable**
+
+---
+
+###  Stack technique
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Lifelines` · `Streamlit` · `Plotly`
+
 
 ### 🔹 [Analyse Prédictive & Segmentation des Clients Santé – Modèle de Risque et Tarification](https://predictive-analysis-g7zjxrbuf79tfb3aolobma.streamlit.app/)  
 **💻 Application Streamlit Cloud**  
