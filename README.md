@@ -22,7 +22,7 @@
 
 ---
 
-## 🧭 Vision Professionnelle  
+##  Vision Professionnelle  
 
 - Construire des **copilotes IA pour l'analyse de données** en entreprise  
 - Développer des outils Data/IA pour la **prise de décision stratégique**  
@@ -31,7 +31,7 @@
 
 ## 🛠️ Stack Technique  
 
-### 📊 Data Science & Machine Learning  
+### Data Science & Machine Learning  
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
 - Data Cleaning, Preprocessing, Feature engineering  
 - Modélisation probabiliste et statistique  
