@@ -55,7 +55,8 @@
 
 ## 📂 Projets Clés  
 ### 🔹 [Maintenance Prédictive Industrielle — RLU, Analyse de Survie & ROI](https://predictive-maintenance-in-industry-ci7wzatf9nlcghomctgbtx.streamlit.app/)
-*Estimation du RLU, anticipation des pannes et optimisation des coûts de maintenance*
+
+**Estimation du RLU, anticipation des pannes et optimisation des coûts de maintenance**
 
 
 **Objectif** :  
