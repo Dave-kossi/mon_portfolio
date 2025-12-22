@@ -54,10 +54,8 @@
 ---
 
 ## 📂 Projets Clés  
-### 🔹 [Maintenance Prédictive Industrielle — RLU, Analyse de Survie & ROI](https://predictive-maintenance-in-industry-ci7wzatf9nlcghomctgbtx.streamlit.app/)
-
-**Estimation du RLU, anticipation des pannes et optimisation des coûts de maintenance**
-
+### 🔹 [Maintenance Prédictive Industrielle avec des KPI comme RLU,Analyse de Survie et ROI](https://predictive-maintenance-in-industry-ci7wzatf9nlcghomctgbtx.streamlit.app/)
+- [Visualisation interactive Streamlit](https://predictive-maintenance-in-industry-ci7wzatf9nlcghomctgbtx.streamlit.app/)
 
 **Objectif** :  
 Développer un **tableau de bord de maintenance prédictive** permettant d’anticiper les pannes industrielles en estimant la **Remaining Useful Life (RLU)** des machines, tout en **quantifiant l’impact financier (ROI)** des décisions de maintenance.
