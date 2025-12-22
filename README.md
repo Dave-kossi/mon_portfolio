@@ -1,4 +1,4 @@
-# 👨‍💻 Kossi Noumagno
+
 **Data Analyst | Future Data Scientist | AI Enthusiast**
 
 ![Python](https://img.shields.io/badge/Python-green) 
@@ -55,7 +55,7 @@
 
 ## 📂 Projets Clés  
 ### 🔹 Maintenance Prédictive Industrielle — RLU, Analyse de Survie & ROI  
-**Application Streamlit – Maintenance Prédictive & ROI Industriel](https://predictive-maintenance-in-industry-ci7wzatf9nlcghomctgbtx.streamlit.app/)**  
+**Application Streamlit – Maintenance Prédictive & ROI Industriel]**.(https://predictive-maintenance-in-industry-ci7wzatf9nlcghomctgbtx.streamlit.app/). 
 *Estimation du RLU, anticipation des pannes et optimisation des coûts de maintenance*
 
 
