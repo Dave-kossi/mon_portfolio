@@ -1,5 +1,5 @@
 
-**Data Analyst | Future Data Scientist | AI Enthusiast**
+### Data Analyst | Future Data Scientist | AI Enthusiast
 
 ![Python](https://img.shields.io/badge/Python-green) 
 ![SQL](https://img.shields.io/badge/SQL-blue) 
