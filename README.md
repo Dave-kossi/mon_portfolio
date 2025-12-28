@@ -53,7 +53,7 @@
 ---
 
 ## 📂 Projets Clés  
-### 🔹 [Maintenance Prédictive Industrielle avec des KPI comme RLU,Analyse de Survie et ROI]
+### 🔹 Maintenance Prédictive Industrielle avec des KPI comme RLU,Analyse de Survie et ROI
 - [Visualisation interactive Streamlit](https://predictive-maintenance-in-industry-ci7wzatf9nlcghomctgbtx.streamlit.app/)
 
 **Objectif** :  
@@ -89,7 +89,6 @@ L’enjeu est d’**intervenir au bon moment**, ni trop tôt (surcoûts), ni tro
 
 
 ### 🔹 [Analyse Prédictive & Segmentation des Clients Santé – Modèle de Risque et Tarification](https://predictive-analysis-g7zjxrbuf79tfb3aolobma.streamlit.app/)  
-** Application Streamlit Cloud**  
 
 **Objectif**: Analyser, segmenter et prédire le risque médical des clients afin d’optimiser la tarification et la gestion du portefeuille d’assurance.
 
@@ -197,8 +196,8 @@ Application intelligente d’audit, de nettoyage et d’optimisation de données
 ## 📬 Contact  
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kossi-noumagno)  
-- 💻 [GitHub](https://github.com/Dave-kossi)  
-- 📧 **noumagnokossi0@gmail.com**  
+- 💻 [GitHub](https://github.com/Dave-kossi)
+- [E-mail](noumagnokossi0@gmail.com)
 
 ---
 
