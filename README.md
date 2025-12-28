@@ -53,7 +53,7 @@
 ---
 
 ## 📂 Projets Clés  
-### 🔹 [Maintenance Prédictive Industrielle avec des KPI comme RLU,Analyse de Survie et ROI](https://predictive-maintenance-in-industry-ci7wzatf9nlcghomctgbtx.streamlit.app/)
+### 🔹 [Maintenance Prédictive Industrielle avec des KPI comme RLU,Analyse de Survie et ROI]
 - [Visualisation interactive Streamlit](https://predictive-maintenance-in-industry-ci7wzatf9nlcghomctgbtx.streamlit.app/)
 
 **Objectif** :  
