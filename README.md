@@ -9,12 +9,12 @@
 
 ---
 
-## 👋 À Propos de Moi  
+##  À Propos de Moi  
 
 Étudiant en Master **Ingénierie Mathématique & Data Science** à l'Université de Haute-Alsace (France), je me passionne pour la **transformation des données en solutions concrètes**.  
 
-🌍 Pour moi, la **Data** est un langage universel qui raconte une histoire.  
-🤖 L'**IA** est l'outil qui permet de transformer cette histoire en **actions intelligentes**.  
+ Pour moi, la **Data** est un langage universel qui raconte une histoire.  
+ L'**IA** est l'outil qui permet de transformer cette histoire en **actions intelligentes**.  
 
 **Objectif** : développer des solutions innovantes en **finance**, **e-commerce** et **banques et assurances**, en utilisant les données et l'IA comme leviers stratégiques.  
 
@@ -47,8 +47,8 @@
 - Power BI, Tableau, Plotly, ydata-profiling  
 - Dashboards interactifs & storytelling data  
 
-### 🌐 Web & Dev Skills  
-- HTML, CSS, Git/GitHub  
+### Dev Skills  
+- Git/GitHub, Stremlit cloud, Hugging Face 
 - Développement d'outils analytiques Python  
 
 ---
@@ -90,7 +90,7 @@ L’enjeu est d’**intervenir au bon moment**, ni trop tôt (surcoûts), ni tro
 
 
 ### 🔹 [Analyse Prédictive & Segmentation des Clients Santé – Modèle de Risque et Tarification](https://predictive-analysis-g7zjxrbuf79tfb3aolobma.streamlit.app/)  
-**💻 Application Streamlit Cloud**  
+** Application Streamlit Cloud**  
 
 **Objectif**: Analyser, segmenter et prédire le risque médical des clients afin d’optimiser la tarification et la gestion du portefeuille d’assurance.
 
@@ -141,21 +141,21 @@ Application intelligente d’audit, de nettoyage et d’optimisation de données
 
 ---
 
-## 💼 Expérience Professionnelle (Sélection)
+##  Expérience Professionnelle (Sélection)
 
-### 🖥️ Technicien Informatique – CENI Togo  
+###  Technicien Informatique – CENI Togo  
 **Mai 2024**  
 - Installation et configuration de Windows sur 3 ordinateurs neufs  
 - Déploiement de logiciels métiers et mise en place de protocoles de sauvegarde  
 - Standardisation des environnements postes pour améliorer la fiabilité opérationnelle  
 
-### 🌐 Administrateur Système & Réseaux – International Bâtisseur  
+###  Administrateur Système & Réseaux – International Bâtisseur  
 **Janvier 2023**  
 - Déploiement d’un serveur Samba pour le partage et la centralisation des données internes  
 - Gestion des droits d’accès utilisateurs et des sauvegardes  
 - Contribution à la sécurisation et à la gouvernance des données de l’entreprise  
 
-### 📊 Technicien Informatique, Formateur & Assistant Stagiaires – Computer Forever  
+###  Technicien Informatique, Formateur & Assistant Stagiaires – Computer Forever  
 **2022 – 2024**  
 - Formation de +37 apprenants aux outils informatiques et bureautiques  
 - Encadrement de +23 stagiaires avec suivi des performances et accompagnement professionnel  
@@ -168,18 +168,18 @@ Application intelligente d’audit, de nettoyage et d’optimisation de données
 
 ---
 
-## 📚 Formation
+##  Formation
 
-### 🎓 Master Ingénierie Mathématique & Data Science  
+###  Master Ingénierie Mathématique & Data Science  
 **Université de Haute-Alsace (UHA)** — *2025 – 2026*  
 
-### 🎓 Licence Mathématiques Appliquées  
+###  Licence Mathématiques Appliquées  
 **Université de Haute-Alsace (UHA)** — *2024 – 2025*  
 
-### 🎓 Licence Mathématiques Fondamentales  
+###  Licence Mathématiques Fondamentales  
 **Université de Lomé** — *2019 – 2023*  
 
-### 💻 Formation Professionnelle — Technicien Informatique  
+### Formation Professionnelle — Technicien Informatique  
 **Computer Forever – Lomé, Togo** — *2021 – 2022*  
 
 ---
