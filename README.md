@@ -18,8 +18,6 @@
 
 **Objectif** : développer des solutions innovantes en **finance**, **e-commerce** et **banques et assurances**, en utilisant les données et l'IA comme leviers stratégiques.  
 
-**Disponibilité** : Stage en Data Analysis / Data Science à partir de mars 2026.
-
 ---
 
 ##  Vision Professionnelle  
@@ -32,11 +30,12 @@
 ## 🛠️ Stack Technique  
 
 ### Data Science & Machine Learning  
-- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- Tensorflow
 - Data Cleaning, Preprocessing, Feature engineering  
-- Modélisation probabiliste et statistique  
+- Modélisation probabiliste et statistique 
 - Hugging Face, Gradio, Streamlit  
-- Recherche opérationnelle  
+- Recherche opérationnelle
 
 ### 🗄️ Data Engineering & Management  
 - SQL (PostgreSQL)  
